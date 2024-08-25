@@ -60,9 +60,7 @@ Your application will be available at `http://localhost:3000`.
 - **MetaMask Not Found**: Ensure MetaMask is installed and you are connected to the Sepolia testnet.
 - **Error Fetching Token Balance**: Check your RPC URL and ensure the contract address is correct.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
